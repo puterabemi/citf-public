@@ -49,8 +49,8 @@ Simple visualizations (maps, graphs, and charts) to keep track of daily vaccinat
 9) [[Observablehq]](https://observablehq.com/@minimumness/malaysias-covid-vaccination-progress)
 An interactive infographic to visualise Malaysia's vaccination progress. By [Huan Min Gan](https://ministrudels.github.io/)
 
-10) [[Git repo]](https://github.com/danialsim95/msvac)
-An API created by [Danial Sim](https://github.com/danialsim95), powered by PHP. It allows to call HTTP request based on all data provided in this repo.
+10) [[Github Repo]](https://github.com/danialsim95/mycovid)
+MYCovid by [Danial Sim](https://github.com/danialsim95). Currently an API which is powered by PHP which obtains the vaccination and epidemic data.
 
 11) [[Google Data Studio dashboard]](https://datastudio.google.com/s/qEsohEphTnA)
 A dashboard created to forecast progress of vaccination programme, by Koh Wyhow
@@ -74,3 +74,10 @@ A CSV file containing vaccination centres in Malaysia with details including Sta
 
 16) [[Google Data Studio Dashboard]](https://datastudio.google.com/reporting/8ba8d5d5-9a39-4506-af28-7ab8fcd8f8a9)
 An extensive dashboard to be used to monitor the state of the Covid-19 outbreak as well as the progress of vaccination (Malaysia as a whole and by state). Data are manually curated on a daily basis and cross-checked with various official sources for validation and verification purposes. By [aidilsfwn](https://github.com/aidilsfwn)
+
+17) [[Google Data Studio Dashboard]](https://datastudio.google.com/s/r8NqXYF2jpA)
+An interactive mobile friendly dashboard to monitor progress as well as estimate future vaccination rate in Malaysia (and by state). By syafix
+
+18) [[Live Version]](https://vax.tehcpeng.net/) MY Vax Tracker, By [Sheng Han](https://www.linkedin.com/in/shenghan/). Vaccination progress dashboard with a focus on projecting days remaining to 80% vaccination target. 
+
+19) [[GitHub Repo]](https://github.com/vincenth19/myvaccine-backend), [[API documentation]](https://documenter.getpostman.com/view/16605343/Tzm8GG7u) [[Live API]](https://myvaccination-backend.vercel.app/api/). Malaysia Vaccination simple API Endspoints created with ExpressJS. [[Live Example]](https://mycoronastat.pages.dev). Developed by [Vincent Haryadi](https://vincenth19.com)
